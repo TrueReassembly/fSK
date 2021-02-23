@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fSK:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fSK_jar</output-path>
+    <root id="archive" name="fSK.jar">
+      <element id="module-output" name="fSK" />
+    </root>
+  </artifact>
+</component>

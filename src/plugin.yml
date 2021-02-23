@@ -1,0 +1,10 @@
+name: "fSK"
+authors:
+  - "f78"
+  - "Reassembly"
+  - "Houlton"
+description: "A Skript addon with miscellaneous features. This version is made for Skript 2.4.1"
+main: "me.fTeam.fSK.fSK"
+version: "1.0"
+depend:
+  - "Skript"
